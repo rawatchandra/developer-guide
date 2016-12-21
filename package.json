@@ -1,0 +1,11 @@
+{
+  "name": "cmr",
+  "version": "1.0.0",
+  "description": "localetostring",
+  "main": "index",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "cmrwat",
+  "license": "ISC"
+}

@@ -1,2 +1,2 @@
 # developer-guide
-Gudie to developers
+Guide to developers
